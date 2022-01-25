@@ -1,0 +1,4 @@
+1. Download CirciutPython fro the rasberry Pi Pico.
+2. Plug the device into a usb port of the computer (PC / Laptop) while holding the small white button the Rasberry Pi Pico. It should up as a removable USB mass storage device(a external storage device)) named"RPI-RP2".
+3. follow the detailed process by watching the video in the link below:
+https://www.youtube.com/watch?v=e_f9p-_JWZw
